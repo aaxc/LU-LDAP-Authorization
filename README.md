@@ -1,7 +1,5 @@
 # LDAP Authorization Library for University of Latvia
 
-Version 1.0.2
-
 Install via Composer
 ```
 composer require aaxc/lu-ldap-authorization
@@ -17,6 +15,6 @@ Variable $user will containt `false` on failed authorization and `LDAPUser` obje
 
 ## Requirements
 
- - PHP 7.3
+ - PHP 7.2
  - PHP Extension LDAP
  
